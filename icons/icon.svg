@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1000px"
+   height="1000px"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg2"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+  <title
+     id="title1">Artboard</title>
+  <desc
+     id="desc1">Created with Sketch.</desc>
+  <defs
+     id="defs2">
+    <linearGradient
+       x1="50%"
+       y1="0%"
+       x2="50%"
+       y2="99.2583404%"
+       id="linearGradient-1">
+      <stop
+         stop-color="#2AABEE"
+         offset="0%"
+         id="stop1" />
+      <stop
+         stop-color="#229ED9"
+         offset="100%"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Artboard</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <circle
+     id="Oval"
+     fill="url(#linearGradient-1)"
+     cx="500"
+     cy="500"
+     r="500"
+     style="display:inline"
+     transform="translate(-5.9157061e-6)" />
+  <path
+     d="M 108.89662,345.17931 C 296.44584,263.46709 421.50804,209.5974 484.08321,183.5702 662.74802,109.25734 699.87305,96.348395 724.07062,95.922142 c 5.32203,-0.09363 17.22168,1.225209 24.92979,7.479808 6.50857,5.28124 8.29932,12.41547 9.15627,17.42266 0.85694,5.00722 1.92403,16.41378 1.07578,25.32652 -9.68192,101.72864 -51.57538,348.59727 -72.88839,462.53511 -9.01833,48.21138 -26.77573,64.37641 -43.96694,65.95838 -37.36046,3.43794 -65.7303,-24.69042 -101.91573,-48.41044 -56.62308,-37.11713 -88.61151,-60.22267 -143.57401,-96.44211 -63.51867,-41.85786 -22.34215,-64.86369 13.85695,-102.46161 9.47348,-9.83955 174.08457,-159.56607 177.27061,-173.14861 0.39847,-1.69873 0.76827,-8.03075 -2.99349,-11.37431 -3.76176,-3.34354 -9.31377,-2.20019 -13.32027,-1.29086 -5.67909,1.28896 -96.13517,61.07707 -271.36827,179.36436 -25.67565,17.63089 -48.93186,26.22124 -69.76864,25.77109 -22.97085,-0.49629 -67.15759,-12.98808 -100.00589,-23.66575 -40.289762,-13.09663 -72.311268,-20.0209 -69.522909,-42.26302 1.452357,-11.58505 17.40606,-23.43309 47.861139,-35.54405 z"
+     id="Path-3"
+     fill="#ffffff"
+     style="display:inline;stroke-width:1.28671" />
+  <path
+     id="path2"
+     style="fill:none;stroke:#4d4d4d;stroke-width:53.7635;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     d="m 629.15618,786.56995 98.00211,-121.81518 m -136.72121,-14.85894 -56.46652,64.1377 c -43.63384,49.56165 -47.49393,114.28417 -15.33152,139.27259 l 72.88559,56.62786 c 32.16248,24.98829 93.98864,5.3123 131.44121,-49.06201 l 49.57079,-71.96778 m 69.42951,-89.27611 54.85217,-61.83867 c 43.80852,-49.38839 47.49392,-114.28416 15.33151,-139.27254 L 885.0403,477.45436 839.26422,441.88898 c -32.16249,-24.98829 -94.1822,-5.42886 -131.4412,49.06201 l -48.18278,70.46678" />
+  <text
+     xml:space="preserve"
+     style="font-size:222.086px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:1.17521"
+     x="37.65004"
+     y="720.4447"
+     id="text1"><tspan
+       id="tspan1"
+       x="37.65004"
+       y="720.4447"
+       style="font-size:222.086px;stroke-width:1.17521">t.me</tspan></text>
+</svg>
