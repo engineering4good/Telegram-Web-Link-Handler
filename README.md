@@ -16,7 +16,13 @@ The **Telegram Web Link Handler** is a Firefox extension designed to enhance the
 1. Download the extension files.
 2. Open Firefox and navigate to `about:debugging`.
 3. Click on "This Firefox" in the sidebar.
-4. Click on "Load Temporary Add-on" and select the `manifest.json` file from the downloaded extension files.
+4. Click on "Load Temporary Add-on" and select the `src/manifest.json` file from the downloaded extension files.
+
+## Packaging
+To pack the extension into a zip archive, run the command:
+```bash
+python3 package.py 
+```
 
 ## How It Works
 
