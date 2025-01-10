@@ -1,15 +1,26 @@
 # Telegram Web Link Handler
 
+<p align="center"><a rel="noreferrer noopener" href="https://addons.mozilla.org/en-US/firefox/addon/telegram-web-link-handler/">
+<img src="src/icons/icon.svg" alt="extension icon" height="100px"/>
+</a>
+</p>
+<p align="center">
+Firefox extension that <b>redirects Telegram links to the web client</b> for easy access.
+</p>
+
+## Latest Version
+
+<a rel="noreferrer noopener" href="https://addons.mozilla.org/en-US/firefox/addon/telegram-web-link-handler/"><img alt="Firefox Add-ons" src="https://img.shields.io/badge/Firefox-141e24.svg?&style=for-the-badge&logo=firefox-browser&logoColor=white"></a>
+
 ## Overview
 
 The **Telegram Web Link Handler** is a Firefox extension designed to enhance the user experience when interacting with Telegram links. This extension automatically redirects `t.me`, `telegram.me`, and `telegram.dog` links to the Telegram web client, allowing users to seamlessly access their Telegram chats and groups.
 
 ## Features
 
-- Automatically handles Telegram links and opens them in the Telegram web client.
 - Support for deep links
 - Supports only the K version of the Telegram web client.
-- Cancels the default action of opening the link in a new tab if the Telegram web client is already open.
+- Cancels the default action of opening the link.
 
 ## Installation
 
@@ -56,6 +67,7 @@ The extension requires the following permissions:
 ## Limitations
 
 - Currently supports only the K version of the Telegram web client.
+- No support for `tg://` links.
 
 ## Contributing
 
@@ -63,4 +75,4 @@ If you would like to contribute to the development of this extension, feel free 
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for more details.
